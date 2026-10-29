@@ -1,3 +1,5 @@
+![FlowForge AI — Intelligent Workflow Automation](flowforge-cover.png)
+
 # FlowForge AI — Business Automation Studio
 
 A GitHub-ready AI automation business prototype featuring a professional public marketing website and a private, functional workflow studio. Built with **FastAPI, Jinja2, SQLite, and Docker**.
