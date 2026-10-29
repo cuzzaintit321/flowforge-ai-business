@@ -1,0 +1,11 @@
+# Launch checklist
+- [ ] Choose and verify business name, domain and trademark risk.
+- [ ] Determine business structure and applicable state/local requirements.
+- [ ] Obtain appropriate tax registrations, insurance, contracts and separate bank account.
+- [ ] Configure password and keep `.env` secret.
+- [ ] Test demo with fictional data; never upload real private customer data to a public repo.
+- [ ] Harden login and add HTTPS before exposing to the internet.
+- [ ] Add backup/recovery and retention procedures for SQLite volume.
+- [ ] Add opt-in privacy notices and contract language for any AI provider.
+- [ ] Validate accessibility, mobile layout, and use of demo claims.
+- [ ] Run first supervised client pilot before charging subscriptions.

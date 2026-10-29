@@ -1,0 +1,28 @@
+.env
+.env.*
+!.env.example
+*.db
+*.db-*
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+backup*/
+
+# Private configuration
+.env
+.env.*
+!.env.example
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+
+# Local backups
+*.backup
+*.bak
